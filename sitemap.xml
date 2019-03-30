@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://shanewni.github.io/post/hugo%E6%9E%81%E9%80%9F%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2019-03-30T16:13:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shanewni.github.io/email/email/</loc>
+    <lastmod>2019-03-30T16:10:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shanewni.github.io/about/first/</loc>
+    <lastmod>2019-03-30T15:24:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shanewni.github.io/about/</loc>
+    <lastmod>2019-03-30T15:24:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shanewni.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shanewni.github.io/email/</loc>
+    <lastmod>2019-03-30T16:10:18+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shanewni.github.io/</loc>
+    <lastmod>2019-03-30T16:13:30+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shanewni.github.io/post/</loc>
+    <lastmod>2019-03-30T16:13:30+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shanewni.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

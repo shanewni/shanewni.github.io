@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>
+        
+        My Blog
+        
+    </title>
+    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
+    <link rel='icon' type='image/x-icon' href="http://shanewni.github.io/images/logo.png" />
+    <link rel="apple-touch-icon" href="http://shanewni.github.io/images/logo.png"><link rel="stylesheet" href="http://shanewni.github.io/scss/style.css">
+    
+    <link rel="stylesheet" href="http://shanewni.github.io/scss/monokai-sublime.min.css">
+    <script src="http://shanewni.github.io/js/highlight.min.js"></script>
+    <link rel="stylesheet" href="http://shanewni.github.io/scss/highlight.css">
+    
+    <link rel="stylesheet" href="http://shanewni.github.io/scss/custom.css">
+    
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'Your Google Analytics tracking id', 'auto');
+        ga('send', 'pageview');
+    </script>
+    
+    
+    <meta name="generator" content="Hugo 0.54.0" /></head>
+
+<body>
+<div class="header">
+    <div class="site-logo__wrap">
+        <div id="site-button">
+            <div></div>
+        </div>
+        
+        <div class=' site-logo '>
+            <a href="http://shanewni.github.io/"><img src="http://shanewni.github.io/images/logo.png" /></a>
+        </div>
+    </div>
+    
+<div class=' site-nav u-font ' id="nav-bar">
+    
+    <div class="site-nav__wrap">
+        <a class="site-nav__el" href="/" >HOME</a>
+    </div>
+    
+    <div class="site-nav__wrap">
+        <a class="site-nav__el" href="/post" >BLOG</a>
+    </div>
+    
+    <div class="site-nav__wrap">
+        <a class="site-nav__el" href="/about" >ABOUT</a>
+    </div>
+    
+    <div class="site-nav__wrap">
+        <a class="site-nav__el" href="/tags/" >TAGS</a>
+    </div>
+    
+</div>
+</div>
+<div class="main">
+
+<div class="main-content">
+    <div class="main-content__date">
+        <h4 id="date"> 2019.03.30 16:13 </h4>
+    </div>
+    <div class="main-content__title">
+        <h1 id="title">Hugo极速创建个人博客</h1>
+    </div>
+    <div class="main-content__article">
+        <article id="content">
+            
+
+<h2 id="前言">前言</h2>
+
+<p>在此之前，我并不没有考虑过要开发个人博客，而且想当然的认为开发一个博客很麻烦，直到我遇到了ta。</p>
+
+<p> </p>
+
+<h2 id="过程">过程</h2>
+
+<p>话说今天，逛Go论坛时，发现一个好玩的帖子，“Go语言最棒开源项目Top”，其中有大名鼎鼎的“Docker”，“ETCD”等等。</p>
+
+<p>在其中发现hugo这个开源项目，据说该作者出身于Docker创始团队，Docker的部分静态页面也是采用的hugo。</p>
+
+<p>简单来说，hugo是一个能够帮你快速生成静态页面的框架。快到什么程度呢。</p>
+
+<p>几千个页面只需要几十秒。</p>
+
+<p> </p>
+
+<p>出于兴趣，在github中做了个人博客。</p>
+
+<p>而且未来可能要将博客转移到<a href="shanewni.github.io">shanewni.github.io</a>中。</p>
+
+<p>先说说怎样利用hugo来生成自己的博客并上传到github中吧。</p>
+
+<p>其实官方介绍已经说的相当详细了，<a href="https://www.gohugo.org/post/">中文官方介绍</a>。</p>
+
+<p> </p>
+
+<h2 id="异常问题">异常问题</h2>
+
+<p>除官网介绍外，碰到一个问题。</p>
+
+<pre><code class="language-javascript">Mixed Content: The page at 'https://shanewni.github.io/' was loaded over HTTPS, but requested an insecure script 'http://shanewni.github.io/js/highlight.min.js'. This request has been blocked; the content must be served over HTTPS.
+</code></pre>
+
+<p>经常使用前端开发的可能比较熟悉，在https中跳转http会出现跨域问题。</p>
+
+<p>从而导致个人博客的某些样式界面无法正常显示。</p>
+
+<h2 id="解决方法">解决方法</h2>
+
+<p>解决方法如此：</p>
+
+<p><code>&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;upgrade-insecure-requests&quot;&gt;</code></p>
+
+<h2 id="解决原理">解决原理</h2>
+
+<p>解决原理是：</p>
+
+<p>自动识别http开头的链接并转换为https。</p>
+
+<p>这样就解决了目前出现跨域问题。</p>
+
+<h2 id="结束语">结束语</h2>
+
+<p>如此一来，开发个人博客只需几分钟，不知道这样的速度算不算是极速呢？。</p>
+
+        </article>
+    </div>
+    <div class="main-content__tags u-font">
+        
+    </div>
+</div>
+<div class="main-profile">
+    <div class="main-profile__avatar">
+        
+            <img src="/images/avatar.png">
+        
+    </div>
+    <div class="main-profile__body">
+        <div class="main-profile__author">
+            
+            <span> shanewni </span>
+            
+        </div>
+        <div class="main-profile__description">
+            
+            <p> 一个正在努力奔跑的人 </p>
+            
+        </div>
+    </div>
+</div>
+<div class="main-line"></div>
+<div class="main-pn">
+    
+    
+</div>
+
+</div>
+<div class="footer">
+    <div class="copyright-wrap">
+        <p class="copyright u-font">
+            
+            &#169;
+            2019
+            
+            <a href="https://shanewni.github.io" target="_blank">shanewni&#46;</a>
+            Theme <a href="https://github.com/iCyris/hugo-theme-yuki" target="_blank">yuki</a>&#46;
+            Powered by Hugo&#46;
+            
+            
+        </p>
+    </div>
+</div>
+</body>
+<script src="http://shanewni.github.io/js/page.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+

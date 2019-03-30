@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emails on My Blog</title>
+    <link>http://shanewni.github.io/email/</link>
+    <description>Recent content in Emails on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Mar 2019 16:10:18 +0800</lastBuildDate>
+    
+	<atom:link href="http://shanewni.github.io/email/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Email</title>
+      <link>http://shanewni.github.io/email/email/</link>
+      <pubDate>Sat, 30 Mar 2019 16:10:18 +0800</pubDate>
+      
+      <guid>http://shanewni.github.io/email/email/</guid>
+      <description>shanewni@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>

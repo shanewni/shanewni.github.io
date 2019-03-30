@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My Blog</title>
+    <link>http://shanewni.github.io/about/</link>
+    <description>Recent content in Abouts on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Mar 2019 15:24:40 +0800</lastBuildDate>
+    
+	<atom:link href="http://shanewni.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://shanewni.github.io/about/first/</link>
+      <pubDate>Sat, 30 Mar 2019 15:24:40 +0800</pubDate>
+      
+      <guid>http://shanewni.github.io/about/first/</guid>
+      <description> 扬帆起航 </description>
+    </item>
+    
+  </channel>
+</rss>

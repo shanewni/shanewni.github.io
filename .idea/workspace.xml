@@ -12,31 +12,16 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../content/post/my-first-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/display.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/highlight.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/config/_config.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/highlight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/highlight.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/keyframes/_keyframes.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/monokai-sublime.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/first/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/first/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email/email/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/email/email/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/email/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/hugo极速创建个人博客/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/hugo极速创建个人博客/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,7 +33,94 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/post/hugo极速创建个人博客/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/post/page/1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/post/index.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/categories/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about/first/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/email/email/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tags/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -57,23 +129,25 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/highlight.min.js" />
         <option value="$PROJECT_DIR$/page/1/index.html" />
-        <option value="$PROJECT_DIR$/categories/index.html" />
-        <option value="$PROJECT_DIR$/about/index.html" />
-        <option value="$PROJECT_DIR$/email/index.html" />
-        <option value="$PROJECT_DIR$/post/hugo极速创建个人博客/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/tags/index.html" />
         <option value="$PROJECT_DIR$/post/hugo-fast-creat-blog/index.html" />
         <option value="$PROJECT_DIR$/post/index.html" />
         <option value="$PROJECT_DIR$/post/index.xml" />
         <option value="$PROJECT_DIR$/post/page/1/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/post/hugo极速创建个人博客/index.html" />
+        <option value="$PROJECT_DIR$/tags/index.html" />
+        <option value="$PROJECT_DIR$/categories/index.html" />
+        <option value="$PROJECT_DIR$/about/index.html" />
+        <option value="$PROJECT_DIR$/email/index.html" />
+        <option value="$PROJECT_DIR$/about/first/index.html" />
+        <option value="$PROJECT_DIR$/email/email/index.html" />
       </list>
     </option>
   </component>
@@ -87,8 +161,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo极速创建个人博客" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,16 +220,18 @@
       <workItem from="1553934838118" duration="662000" />
       <workItem from="1553935582322" duration="951000" />
       <workItem from="1553936670098" duration="256000" />
+      <workItem from="1553936957139" duration="424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3318000" />
+    <option name="totallyTimeSpent" value="3742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -146,7 +243,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24520548" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21232876" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -157,13 +254,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -188,7 +278,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email/index.html">
+    <entry file="file://$PROJECT_DIR$/page/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/hugo-fast-creat-blog/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/hugo极速创建个人博客/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/page/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categories/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
@@ -202,55 +345,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/categories/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/post/hugo极速创建个人博客/index.html" />
-    <entry file="file://$PROJECT_DIR$/post/index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/post/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/post/page/1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/post/hugo-fast-creat-blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags/index.html">
+    <entry file="file://$PROJECT_DIR$/email/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/about/first/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/email/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
